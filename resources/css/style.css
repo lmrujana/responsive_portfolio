@@ -34,8 +34,18 @@ p{
 
 footer{
     margin-top: 25px;
-    height: 55px;
+    height: 75px;
     background-color: #1f5554;
+}
+
+footer div{
+    height: 50px;
+    text-align: center;
+}
+
+.social-media{
+    font-size: 2em;
+    color: #FFD781;
 }
 
 footer span{
@@ -43,4 +53,13 @@ footer span{
     color: #FFD781;
     display: block;
     font-size: 20px;
+}
+
+/* Contact page Styling */
+#contact-info{
+    color: #44a9a7;
+}
+
+#contact-form{
+    margin-top: 3%;
 }
